@@ -1,0 +1,320 @@
+@media (max-width: 480px) {
+  .skill-links {
+    width: 100%;
+  }
+
+  #skill>h1 {
+    color: #444444;
+    font-size: 27px;
+    padding-bottom: 20px;
+  }
+  .skill-cards-container{
+    display: block;
+  }
+  .skill-card{
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+
+  #job-fair>h2 {
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 20px;
+  }
+
+  .job-fair-img {
+    width: 100%;
+  }
+
+  .job-fair-img>video {
+    border-radius: 15px;
+
+  }
+
+  #choose>h2 {
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 20px;
+  }
+
+  .choose-img {
+    width: 100%;
+  }
+
+  .choose-img>video {
+    border-radius: 15px;
+
+  }
+
+
+
+  .affilate-container{
+    width: 100%;
+    height: 100px;
+  }
+  #affilated h1{
+    font-size: 30px;
+  }
+
+  .feature-card{
+    width: 270px;
+  }
+  .feature-cards-container{
+    gap: 20px;
+  }
+  .feature-container>h1{
+    font-size: 30px;
+  }
+  .form-container{
+    display: block;
+    padding: 20px 10px;
+  }
+  .form-right-content{
+    width: 100%;
+  }
+  .form-left-content{
+    margin-bottom: 20px;
+    width: 100%;
+  }
+
+  .fc-column{
+    width: 300px;
+  }
+  .fa-brands{
+    font-size: 40px;
+  }
+  .media-icons{
+    gap: 10px;
+    width: 90%;
+  }
+    .icon-head{
+    font-size: 35px;
+  }
+  .copyright{
+    font-size: 14px;
+  }
+
+
+
+}
+
+@media (min-width: 481px) and (max-width: 768px) {
+  .skill-links {
+    width: 100%;
+  }
+
+  #skill>h1 {
+    color: #444444;
+    font-size: 33px;
+    padding-bottom: 20px;
+    text-align: center;
+  }
+  .skill-cards-container{
+    display: block;
+  }
+  .skill-card{
+    width: 100%;
+    margin-bottom: 20px;
+
+  }
+
+
+  #choose>h2 {
+    font-size: 35px;
+    font-weight: 600;
+    margin-bottom: 20px;
+  }
+
+  .choose-img {
+    width: 100%;
+    
+  }
+
+  .choose-img>video {
+    border-radius: 20px;
+
+  }
+
+
+  #job-fair>h2 {
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 20px;
+  }
+
+  .job-fair-img {
+    width: 100%;
+  }
+
+  .job-fair-img>video {
+    border-radius: 20px;
+
+  }
+  .form-container{
+    display: block;
+  }
+  .form-right-content{
+    width: 100%;
+  }
+  .form-left-content{
+    margin-bottom: 20px;
+    width: 100%;
+  }
+
+  
+    .fc-column{
+    width: 400px;
+  }
+
+  .fa-brands{
+    font-size: 50px;
+  }
+  .media-icons{
+    gap: 10px;
+    width: 80%;
+  }
+
+
+
+
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .skill-links {
+    width: 100%;
+  }
+
+  #skill>h1 {
+    text-align: center;
+  }
+
+  #choose>h2 {
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 20px;
+  }
+
+  .choose-img {
+    width: 100%;
+  }
+
+    .job-fair-img {
+    width: 100%;
+  }
+
+
+  .form-container{
+    display: block;
+  }
+  .form-right-content{
+    width: 100%;
+  }
+  .form-left-content{
+    margin-bottom: 20px;
+    width: 100%;
+  }
+
+
+  .fc-column{
+    width: 40%;
+  }
+  .navigation-column{
+    width: 85%;
+    padding: 10px 30px 30px;
+
+  }
+  .navigation-column>div{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+  }
+  .navigation-column img {
+    width: 250px;
+  }
+  .media-icons{
+    width: 70%;
+  }
+
+}
+
+@media (min-width: 1025px) and (max-width: 1200px) {
+  .form-left-content{
+    width: 50%;
+  }
+    .choose-img {
+    width: 80%;
+    }
+
+  .job-fair-img {
+    width: 80%;
+  }
+  .media-icons{
+    width: 50%;
+  }
+}
+
+@media (min-width: 1201px) {
+  #skill {
+    padding: 5% 1%;
+  }
+
+  .skill-card {
+    width: 350px;
+  }
+
+
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @media (max-width: 480px) {
+    
+}
+
+@media (min-width: 481px) and (max-width: 768px) {
+   
+  
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+ 
+}
+
+@media (min-width: 1025px) and (max-width: 1200px) {
+}
+
+@media (min-width: 1201px) {
+  
+} */
