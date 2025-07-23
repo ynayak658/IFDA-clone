@@ -74,14 +74,14 @@ function resetTimer() {
 
 let aboutDigitalContent = document.querySelector(".about-digi-content");
 
-aboutDigitalContent.addEventListener("click", () => {
+aboutDigitalContent.addEventListener("mouseenter", () => {
   aboutDigitalContent.style.zIndex = "20";
 })
 
 
 let aboutContent = document.querySelector(".about-content");
 
-aboutContent.addEventListener("click", () => {
+aboutContent.addEventListener("mouseenter", () => {
   aboutDigitalContent.style.zIndex = "0";
 })
 
